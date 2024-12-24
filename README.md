@@ -36,10 +36,29 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 - Pandas - version 2.2.2
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Risk Assessment for Grades B, C, and D: Since loan applicants from Grades B, C, and D contribute to most of the "Charged Off" loans.
+
+- Pay special attention to applicants with Subgrades B3, B4, and B5, as they are more likely to charge off. Implementing additional risk mitigation measures or offering them lower loan amounts could be considered.
+
+- Term Length: Given that applicants opting for 60-month loans are more likely to default, the company should consider evaluating the risk associated with longer-term loans and potentially limiting the maximum term or adjusting interest rates accordingly.
+
+- Employment Length: Loan applicants with 10+ years of experience are more likely to default. This suggests that experience alone may not be a reliable indicator of credit worthiness. The company should use a more comprehensive credit scoring system that factors in other risk-related attributes.
+
+- There is steady increase in the number of loan applicants from 2007 to 2011 indicates growth in the market. The company can capitalize on this trend by maintaining a competitive edge in the industry while keeping risk management practices robust.
+
+- December and Q4 are peak periods for loan applications, likely due to the holiday season. The company should anticipate increased demand during these periods and ensure efficient processing to meet customer needs.
+
+- Debt Consolidation is the category with the maximum number of loans and high default rates, the company should carefully evaluate applicants seeking debt consolidation loans and potentially adjust interest rates or offer financial counselling services.
+
+- Applicants living in rented or mortgaged houses are more likely to default. This information can be considered in the underwriting process to assess housing stability and its impact on repayment ability.
+
+- Verified loan applicants are defaulting more than those who are not verified. The company should review its verification process to ensure it effectively assesses applicant creditworthiness and consider improvements or adjustments.
+
+- Applicants receiving loan amounts of $15K or higher are more likely to default. The company can mitigate this risk by conducting more thorough assessments for larger loan requests and potentially capping loan amounts for higher-risk applicants.
+
+- High Debt-to-Income (DTI) ratios and interest rates in the 13%-17% range are associated with defaults. The company should review its interest rate determination process and consider adjusting rates based on DTI ratios to better align with the borrower's ability to repay.
+
+- Applicants with annual income of range 31201 - 58402 have a higher likelihood of defaulting. The company should consider offering financial education resources or setting maximum loan amounts based on income levels to ensure affordability for borrowers.
 
 ## Acknowledgements
 Give credit here.
@@ -47,4 +66,5 @@ Give credit here.
 - UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 ## Contact
-Created by https://github.com/deepalipardhe
+Created by Deepali Pardhe
+
